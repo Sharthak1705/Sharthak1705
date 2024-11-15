@@ -21,8 +21,11 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Sharthak1705&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/http://www.linkedin.com/in/sharthak-jain-b03442225/) 
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sharthak1705/Sharthak1705/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sharthak1705/Sharthak1705/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Sharthak1705/Sharthak1705/output/github-snake.svg" />
+</picture>
