@@ -1,4 +1,4 @@
-# Hello Everyone!, I'm Sharthak Jain, a Web Developer 👋🏼:
+# Hello Everyone!, I'm Sharthak Jain, a Full stack Developer 👋🏼:
 🔭 I’m currently working on<br>Building innovative web applications like Ganttify and real-time chat applications using React, Express, and Socket.IO.<br><br>👯 I’m looking to collaborate on<br>Exciting full-stack projects, open-source contributions, or anything involving cutting-edge technologies like AI and real-time applications.<br><br>🤝 I’m looking for help with<br>Improving my expertise in advanced backend systems and exploring large-scale distributed applications.<br><br>🌱 I’m currently learning<br> LLMs, GenAI frameworks, and Three.js to enhance my development capabilities.<br><br>💬 Ask me about<br>Web development (Frontend & Backend), creating dynamic UI/UX designs using GSAP and Locomotive.js, and API integrations.<br><br>⚡ Fun fact<br>I love solving problems creatively—whether it’s coding a new feature or debugging a tricky issue—and I thrive on turning challenges into opportunities!
 
 
